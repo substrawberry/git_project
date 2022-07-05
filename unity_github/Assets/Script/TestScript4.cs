@@ -7,7 +7,7 @@ public class TestScript4 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("TestScript 4 - third");
+        Debug.Log("TestScript 4 - FINAL");
     }
 
     // Update is called once per frame
